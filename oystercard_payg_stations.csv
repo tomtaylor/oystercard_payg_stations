@@ -2,43 +2,43 @@ Unique ID,Name
 1,Abbey Wood
 2,Acton Central
 3,Acton Main Line
-4,Acton Town
+4,Acton Town,3
 5,Albany Park
-6,Aldgate
-7,Aldgate East
+6,Aldgate,1
+7,Aldgate East,1
 8,Alexandra Palace
-9,All Saints
-10,Alperton
-11,Amersham
+9,All Saints,2
+10,Alperton,4
+11,Amersham,9
 12,Anerley
-13,Angel
+13,Angel,1
 14,Angel Road
-15,Archway
-16,Arnos Grove
-17,Arsenal
-18,Baker Street
-19,Balham
-20,Bank
+15,Archway,2&3
+16,Arnos Grove,4
+17,Arsenal,2
+18,Baker Street,1
+19,Balham,3
+20,Bank,1
 21,Banstead
-22,Barbican
-23,Barking
-24,Barkingside
+22,Barbican,1
+23,Barking,4
+24,Barkingside,4
 25,Barnehurst
 26,Barnes
 27,Barnes Bridge
-28,Barons Court
+28,Barons Court,2
 29,Battersea Park
-30,Bayswater
+30,Bayswater,1
 31,Beckenham Hill
 32,Beckenham Junction
-33,Beckton
-34,Beckton Park
-35,Becontree
+33,Beckton,3
+34,Beckton Park,3
+35,Becontree,5
 36,Bellingham
 37,Belmont
-38,Belsize Park
+38,Belsize Park,2
 39,Belvedere
-40,Bermondsey
+40,Bermondsey,2
 41,Berrylands
 42,Bethnal Green (Train)
 43,Bethnal Green (Tube)
@@ -46,43 +46,43 @@ Unique ID,Name
 45,Bexleyheath
 46,Bickley
 47,Birkbeck
-48,Blackfriars
+48,Blackfriars,1
 49,Blackheath
-50,Blackhorse Road
-51,Blackwall
-52,Bond Street
-53,Borough
-54,Boston Manor
-55,Bounds Green
-56,Bow Church
-57,Bow Road
+50,Blackhorse Road,3
+51,Blackwall,2
+52,Bond Street,1
+53,Borough,1
+54,Boston Manor,4
+55,Bounds Green,3&4
+56,Bow Church,2
+57,Bow Road,2
 58,Bowes Park
-59,Brent Cross
+59,Brent Cross,3
 60,Brentford
 61,Brimsdown
-62,Brixton
+62,Brixton,2
 63,Brockley
 64,Bromley North
 65,Bromley South
-66,Bromley-by-Bow
+66,Bromley-by-Bow,2&3
 67,Brondesbury
 68,Brondesbury Park
 69,Bruce Grove
-70,Buckhurst Hill
-71,Burnt Oak
+70,Buckhurst Hill,5
+71,Burnt Oak,4
 72,Bush Hill Park
 73,Bushey
-74,Caledonian Road
+74,Caledonian Road,2
 75,Caledonian Road & Barnsbury
 76,Cambridge Heath
 77,Camden Road
-78,Camden Town
-79,Canada Water
-80,Canary Wharf
-81,Canning Town
-82,Cannon Street
+78,Camden Town,2
+79,Canada Water,2
+80,Canary Wharf,2
+81,Canning Town,3
+82,Cannon Street,1
 83,Canonbury
-84,Canons Park
+84,Canons Park,5
 85,Carpenders Park
 86,Carshalton
 87,Carshalton Beeches
@@ -92,499 +92,499 @@ Unique ID,Name
 91,Catford Bridge
 92,Chadwell Heath
 93,Chafford Hundred
-94,Chalfont & Latimer
-95,Chalk Farm
-96,Chancery Lane
-97,Charing Cross
+94,Chalfont & Latimer,8
+95,Chalk Farm,2
+96,Chancery Lane,1
+97,Charing Cross,1
 98,Charlton
 99,Cheam
 100,Chelsfield
-101,Chesham
+101,Chesham,9
 102,Chessington North
 103,Chessington South
-104,Chigwell
+104,Chigwell,4
 105,Chingford
 106,Chipstead
 107,Chislehurst
 108,Chiswick
-109,Chiswick Park
-110,Chorleywood
+109,Chiswick Park,3
+110,Chorleywood,7
 111,City Thameslink
-112,Clapham Common
+112,Clapham Common,2
 113,Clapham High Street
 114,Clapham Junction
-115,Clapham North
-116,Clapham South
+115,Clapham North,2
+116,Clapham South,2&3
 117,Clapton
 118,Clock House
-119,Cockfosters
-120,Colindale
-121,Colliers Wood
+119,Cockfosters,5
+120,Colindale,4
+121,Colliers Wood,3
 122,Coulsdon South
-123,Covent Garden
+123,Covent Garden,1
 124,Crayford
 125,Crews Hill
 126,Cricklewood
 127,Crofton Park
-128,Crossharbour
+128,Crossharbour,2
 129,Crouch Hill
-130,Croxley
+130,Croxley,7
 131,Crystal Palace
 132,Custom House for ExCel
 133,Cutty Sark for Maritime Greenwich
-134,Cyprus
+134,Cyprus,3
 135,Dagenham Dock
-136,Dagenham East
-137,Dagenham Heathway
+136,Dagenham East,5
+137,Dagenham Heathway,5
 138,Dalston Kingsland
-139,Debden
+139,Debden,6
 140,Denmark Hill
 141,Deptford
-142,Deptford Bridge
-143,Devons Road
-144,Dollis Hill
+142,Deptford Bridge,2&3
+143,Devons Road,2
+144,Dollis Hill,3
 145,Drayton Green
 146,Drayton Park
-147,Ealing Broadway
-148,Ealing Common
-149,Earl's Court
+147,Ealing Broadway,3
+148,Ealing Common,3
+149,Earl's Court,1&2
 150,Earlsfield
-151,East Acton
+151,East Acton,2
 152,East Croydon
 153,East Dulwich
-154,East Finchley
-155,East Ham
-156,East India
-157,East Putney
-158,Eastcote
+154,East Finchley,3
+155,East Ham,3&4
+156,East India,2&3
+157,East Putney,2&3
+158,Eastcote,5
 159,Eden Park
-160,Edgware
-161,Edgware Road
+160,Edgware,5
+161,Edgware Road,1
 162,Edmonton Green
-163,Elephant & Castle
-164,Elm Park
+163,Elephant & Castle,1&2
+164,Elm Park,6
 165,Elmers End
 166,Elmstead Woods
 167,Elstree & Borehamwood
 168,Eltham
-169,Elverson Road
-170,Embankment
+169,Elverson Road,2&3
+170,Embankment,1
 171,Emerson Park
 172,Enfield Chase
 173,Enfield Lock
 174,Enfield Town
-175,Epping
+175,Epping,6
 176,Epsom Downs
 177,Erith
 178,Essex Road
-179,Euston
-180,Euston Square
+179,Euston,1
+180,Euston Square,1
 181,Ewell East
 182,Ewell West
-183,Fairlop
+183,Fairlop,4
 184,Falconwood
-185,Farringdon
+185,Farringdon,1
 186,Feltham
 187,Fenchurch Street
-188,Finchley Central
-189,Finchley Road
+188,Finchley Central,4
+189,Finchley Road,2
 190,Finchley Road & Frognal
-191,Finsbury Park
+191,Finsbury Park,2
 192,Forest Gate
 193,Forest Hill
-194,Fulham Broadway
+194,Fulham Broadway,2
 195,Fulwell
-196,Gallions Reach
-197,Gants Hill
+196,Gallions Reach,3
+197,Gants Hill,4
 198,Gidea Park
 199,Gipsy Hill
-200,Gloucester Road
-201,Golders Green
-202,Goldhawk Road
-203,Goodge Street
+200,Gloucester Road,1
+201,Golders Green,3
+202,Goldhawk Road,2
+203,Goodge Street,1
 204,Goodmayes
 205,Gordon Hill
 206,Gospel Oak
-207,Grange Hill
+207,Grange Hill,4
 208,Grange Park
 209,Grays
-210,Great Portland Street
-211,Green Park
-212,Greenford
-213,Greenwich
+210,Great Portland Street,1
+211,Green Park,1
+212,Greenford,4
+213,Greenwich,2&3
 214,Grove Park
-215,Gunnersbury
+215,Gunnersbury,3
 216,Hackbridge
 217,Hackney Central
 218,Hackney Downs
 219,Hackney Wick
 220,Hadley Wood
-221,Hainault
+221,Hainault,4
 222,Hammersmith
-223,Hampstead
+223,Hampstead,2&3
 224,Hampstead Heath
 225,Hampton
 226,Hampton Court
 227,Hampton Wick
 228,Hanwell
-229,Harlesden
+229,Harlesden,3
 230,Harold Wood
 231,Harringay
 232,Harringay Green Lanes
-233,Harrow & Wealdstone
-234,Harrow-on-the-Hill
+233,Harrow & Wealdstone,5
+234,Harrow-on-the-Hill,5
 235,Hatch End
-236,Hatton Cross
+236,Hatton Cross,5&6
 237,Haydons Road
 238,Hayes
 239,Hayes & Harlington
 240,Headstone Lane
-241,Heathrow Terminal 4
-242,Heathrow Terminal 5
-243,"Heathrow Terminals 1, 2, 3"
+241,Heathrow Terminal 4,6
+242,Heathrow Terminal 5,6
+243,Heathrow Terminals 1, 2, 3,6
 244,Hendon
-245,Hendon Central
+245,Hendon Central,3&4
 246,Herne Hill
-247,Heron Quays
-248,High Barnet
-249,High Street Kensington
+247,Heron Quays,2
+248,High Barnet,5
+249,High Street Kensington,1
 250,Highams Park
-251,Highbury & Islington
-252,Highgate
-253,Hillingdon
+251,Highbury & Islington,2
+252,Highgate,3
+253,Hillingdon,6
 254,Hither Green
-255,Holborn
-256,Holland Park
-257,Holloway Road
+255,Holborn,1
+256,Holland Park,2
+257,Holloway Road,2
 258,Homerton
 259,Honor Oak Park
-260,Hornchurch
+260,Hornchurch,6
 261,Hornsey
 262,Hounslow
-263,Hounslow Central
-264,Hounslow East
-265,Hounslow West
-266,Hyde Park Corner
-267,Ickenham
+263,Hounslow Central,4
+264,Hounslow East,4
+265,Hounslow West,5
+266,Hyde Park Corner,1
+267,Ickenham,6
 268,Ilford
 269,Imperial Wharf
-270,Island Gardens
+270,Island Gardens,2
 271,Isleworth
 272,Kenley
-273,Kennington
-274,Kensal Green
+273,Kennington,2
+274,Kensal Green,2
 275,Kensal Rise
 276,Kensington Olympia
 277,Kent House
-278,Kentish Town
+278,Kentish Town,2
 279,Kentish Town West
-280,Kenton
+280,Kenton,4
 281,Kew Bridge
 282,Kew Gardens
 283,Kidbrooke
-284,Kilburn
+284,Kilburn,2
 285,Kilburn High Road
-286,Kilburn Park
-287,King George V
+286,Kilburn Park,2
+287,King George V,3
 288,King's Cross
-289,King's Cross St. Pancras
-290,Kingsbury
+289,King's Cross St. Pancras,1
+290,Kingsbury,4
 291,Kingston
 292,Kingswood
-293,Knightsbridge
+293,Knightsbridge,1
 294,Knockholt
-295,Ladbroke Grove
+295,Ladbroke Grove,2
 296,Ladywell
-297,Lambeth North
-298,Lancaster Gate
-299,Langdon Park
-300,Latimer Road
+297,Lambeth North,1
+298,Lancaster Gate,1
+299,Langdon Park,2
+300,Latimer Road,2
 301,Lee
-302,Leicester Square
-303,Lewisham
-304,Leyton
+302,Leicester Square,1
+303,Lewisham,2&3
+304,Leyton,3
 305,Leyton Midland Road
-306,Leytonstone
+306,Leytonstone,3&4
 307,Leytonstone High Road
-308,Limehouse
-309,Liverpool Street
-310,London Bridge
-311,London City Airport
+308,Limehouse,2
+309,Liverpool Street,1
+310,London Bridge,1
+311,London City Airport,3
 312,London Fields
 313,Loughborough Junction
-314,Loughton
+314,Loughton,6
 315,Lower Sydenham
-316,Maida Vale
+316,Maida Vale,2
 317,Malden Manor
-318,Manor House
+318,Manor House,2&3
 319,Manor Park
-320,Mansion House
-321,Marble Arch
+320,Mansion House,1
+321,Marble Arch,1
 322,Maryland
-323,Marylebone
+323,Marylebone,1
 324,Maze Hill
-325,Mile End
+325,Mile End,2
 326,Mill Hill Broadway
-327,Mill Hill East
+327,Mill Hill East,4
 328,Mitcham Eastfields
 329,Mitcham Junction
-330,Monument
-331,Moor Park
-332,Moorgate
-333,Morden
+330,Monument,1
+331,Moor Park,6&7
+332,Moorgate,1
+333,Morden,4
 334,Morden South
-335,Mornington Crescent
+335,Mornington Crescent,2
 336,Mortlake
 337,Motspur Park
 338,Mottingham
-339,Mudchute
+339,Mudchute,2
 340,Name
-341,Neasden
+341,Neasden,3
 342,New Barnet
 343,New Beckenham
-344,New Cross
-345,New Cross Gate
+344,New Cross,2
+345,New Cross Gate,2
 346,New Eltham
 347,New Malden
 348,New Southgate
-349,Newbury Park
+349,Newbury Park,4
 350,Norbiton
 351,Norbury
-352,North Acton
+352,North Acton,2&3
 353,North Dulwich
-354,North Ealing
-355,North Greenwich
-356,North Harrow
+354,North Ealing,3
+355,North Greenwich,2&3
+356,North Harrow,5
 357,North Sheen
-358,North Wembley
-359,Northfields
-360,Northolt
+358,North Wembley,4
+359,Northfields,3
+360,Northolt,5
 361,Northolt Park
 362,Northumberland Park
-363,Northwick Park
-364,Northwood
-365,Northwood Hills
+363,Northwick Park,4
+364,Northwood,6
+365,Northwood Hills,6
 366,Norwood Junction
-367,Notting Hill Gate
+367,Notting Hill Gate,1&2
 368,Nunhead
 369,Oakleigh Park
-370,Oakwood
+370,Oakwood,5
 371,Ockendon
-372,Old Street
+372,Old Street,1
 373,Orpington
-374,Osterley
-375,Oval
-376,Oxford Circus
-377,Paddington
+374,Osterley,4
+375,Oval,2
+376,Oxford Circus,1
+377,Paddington,1
 378,Palmers Green
-379,Park Royal
-380,Parsons Green
+379,Park Royal,3
+380,Parsons Green,2
 381,Peckham Rye
 382,Penge East
 383,Penge West
 384,Perivale Hanger Lane
 385,Petts Wood
-386,Piccadilly Circus
-387,Pimlico
-388,Pinner
-389,Plaistow
+386,Piccadilly Circus,1
+387,Pimlico,1
+388,Pinner,5
+389,Plaistow,3
 390,Plumstead
 391,Ponders End
-392,Pontoon Dock
-393,Poplar
-394,Preston Road
-395,Prince Regent
-396,Pudding Mill Lane
+392,Pontoon Dock,3
+393,Poplar,2
+394,Preston Road,4
+395,Prince Regent,3
+396,Pudding Mill Lane,2&3
 397,Purfleet
 398,Purley
 399,Purley Oaks
 400,Putney
-401,Putney Bridge
-402,Queen's Park
+401,Putney Bridge,2
+402,Queen's Park,2
 403,Queens Road Peckham
-404,Queensbury
+404,Queensbury,4
 405,Queenstown Road
-406,Queensway
+406,Queensway,1
 407,Rainham
 408,Ravensbourne
-409,Ravenscourt Park
-410,Rayners Lane
+409,Ravenscourt Park,2
+410,Rayners Lane,5
 411,Raynes Park
 412,Rectory Road
-413,Redbridge
+413,Redbridge,4
 414,Reedham
-415,Regent's Park
+415,Regent's Park,1
 416,Richmond
-417,Rickmansworth
+417,Rickmansworth,7
 418,Riddlesdown
-419,Roding Valley
+419,Roding Valley,4
 420,Romford
-421,Royal Albert
-422,Royal Oak
-423,Royal Victoria
-424,Ruislip
-425,Ruislip Gardens
-426,Ruislip Manor
-427,Russell Square
+421,Royal Albert,3
+422,Royal Oak,2
+423,Royal Victoria,3
+424,Ruislip,6
+425,Ruislip Gardens,5
+426,Ruislip Manor,6
+427,Russell Square,1
 428,Sanderstead
 429,Selhurst
 430,Seven Kings
-431,Seven Sisters
-432,Shadwell
-433,Shepherd's Bush
-434,Shepherd's Bush Market
+431,Seven Sisters,3
+432,Shadwell,2
+433,Shepherd's Bush,2
+434,Shepherd's Bush Market,2
 435,Shortlands
 436,Sidcup
 437,Silver Street
 438,Slade Green
-439,Sloane Square
+439,Sloane Square,1
 440,Smitham
-441,Snaresbrook
+441,Snaresbrook,4
 442,South Acton
 443,South Bermondsey
 444,South Croydon
-445,South Ealing
+445,South Ealing,3
 446,South Greenford
 447,South Hampstead
-448,South Harrow
-449,South Kensington
-450,South Kenton
+448,South Harrow,5
+449,South Kensington,1
+450,South Kenton,4
 451,South Merton
-452,South Quay
-453,South Ruislip
+452,South Quay,2
+453,South Ruislip,5
 454,South Tottenham
-455,South Wimbledon
-456,South Woodford
+455,South Wimbledon,3&4
+456,South Woodford,4
 457,Southall
 458,Southbury
-459,Southfields
-460,Southgate
-461,Southwark
+459,Southfields,3
+460,Southgate,4
+461,Southwark,1
 462,St. Helier
 463,St. James Street
-464,St. John's Wood
+464,St. John's Wood,2
 465,St. Johns
 466,St. Mary Cray
 467,St. Pancras International
-468,St. Paul's
-469,St. James's Park
+468,St. Paul's,1
+469,St. James's Park,1
 470,St. Margarets
-471,Stamford Brook
+471,Stamford Brook,2
 472,Stamford Hill
-473,Stanmore
-474,Stepney Green
-475,Stockwell
+473,Stanmore,5
+474,Stepney Green,2
+475,Stockwell,2
 476,Stoke Newington
-477,Stonebridge Park
+477,Stonebridge Park,3
 478,Stoneleigh
-479,Stratford
+479,Stratford,3
 480,Strawberry Hill
 481,Streatham
 482,Streatham Common
 483,Streatham Hill
 484,Sudbury & Harrow Road
-485,Sudbury Hill
+485,Sudbury Hill,4
 486,Sudbury Hill Harrow
-487,Sudbury Town
+487,Sudbury Town,4
 488,Sundridge Park
 489,Surbiton
 490,Sutton
 491,Sutton Common
-492,Swiss Cottage
+492,Swiss Cottage,2
 493,Sydenham
 494,Sydenham Hill
 495,Syon Lane
 496,Tadworth
 497,Tattenham Corner
 498,Teddington
-499,Temple
+499,Temple,1
 500,Thames Ditton
-501,Theydon Bois
+501,Theydon Bois,6
 502,Thornton Heath
 503,Tolworth
 504,Tooting
-505,Tooting Bec
-506,Tooting Broadway
-507,Tottenham Court Road
-508,Tottenham Hale
-509,Totteridge & Whetstone
-510,Tower Gateway
-511,Tower Hill
-512,Tufnell Park
+505,Tooting Bec,3
+506,Tooting Broadway,3
+507,Tottenham Court Road,1
+508,Tottenham Hale,3
+509,Totteridge & Whetstone,4
+510,Tower Gateway,1
+511,Tower Hill,1
+512,Tufnell Park,2
 513,Tulse Hill
 514,Turkey Street
-515,Turnham Green
-516,Turnpike Lane
+515,Turnham Green,2&3
+516,Turnpike Lane,3
 517,Twickenham
-518,Upminster
-519,Upminster Bridge
-520,Upney
+518,Upminster,6
+519,Upminster Bridge,6
+520,Upney,4
 521,Upper Holloway
 522,Upper Warlingham
-523,Upton Park
-524,Uxbridge
-525,Vauxhall
-526,Victoria
+523,Upton Park,3
+524,Uxbridge,6
+525,Vauxhall,1&2
+526,Victoria,1
 527,Waddon
 528,Wallington
-529,Walthamstow Central
+529,Walthamstow Central,3
 530,Walthamstow Queens Road
 531,Wandsworth Common
 532,Wandsworth Road
 533,Wandsworth Town
-534,Wanstead
+534,Wanstead,4
 535,Wanstead Park
-536,Warren Street
-537,Warwick Avenue
-538,Waterloo
+536,Warren Street,1
+537,Warwick Avenue,2
+538,Waterloo,1
 539,Waterloo East
-540,Watford
+540,Watford,7
 541,Watford High Street
 542,Watford Junction
 543,Welling
-544,Wembley Central
-545,Wembley Park
+544,Wembley Central,4
+545,Wembley Park,4
 546,Wembley Stadium
-547,West Acton
-548,West Brompton
+547,West Acton,3
+548,West Brompton,2
 549,West Croydon
 550,West Drayton
 551,West Dulwich
 552,West Ealing
-553,West Finchley
-554,West Ham
-555,West Hampstead
-556,West Harrow
-557,West India Quay
-558,West Kensington
+553,West Finchley,4
+554,West Ham,3
+555,West Hampstead,2
+556,West Harrow,5
+557,West India Quay,2
+558,West Kensington,2
 559,West Norwood
-560,West Ruislip
-561,West Silvertown
+560,West Ruislip,6
+561,West Silvertown,3
 562,West Sutton
 563,West Wickham
-564,Westbourne Park
+564,Westbourne Park,2
 565,Westcombe Park
-566,Westferry
-567,Westminster
-568,White City
+566,Westferry,2
+567,Westminster,1
+568,White City,2
 569,White Hart Lane
-570,Whitechapel
+570,Whitechapel,2
 571,Whitton
 572,Whyteleafe
 573,Whyteleafe South
-574,Willesden Green
-575,Willesden Junction
-576,Wimbledon
+574,Willesden Green,2&3
+575,Willesden Junction,3
+576,Wimbledon,3
 577,Wimbledon Chase
-578,Wimbledon Park
+578,Wimbledon Park,3
 579,Winchmore Hill
-580,Wood Green
-581,Wood Lane
+580,Wood Green,3
+581,Wood Lane,2
 582,Wood Street
-583,Woodford
+583,Woodford,4
 584,Woodgrange Park
 585,Woodmansterne
-586,Woodside Park
-587,Woolwich Arsenal
+586,Woodside Park,4
+587,Woolwich Arsenal,4
 588,Woolwich Dockyard
 589,Worcester Park
